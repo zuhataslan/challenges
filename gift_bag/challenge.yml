@@ -2,10 +2,10 @@
 # other tools to install and deploy your challenge.
 
 # Required sections
-name: "Gift Bagzy"
+name: "Gift Bag"
 author: "Robert Teir"
 category: forensics
-description: Some one hacked santa, you need to do some forensics to recover the flag.
+description: Some one hacked santa, you need to do some forensics to recover the flag, woohoo.
 value: 500
 type: dynamic
 extra:
